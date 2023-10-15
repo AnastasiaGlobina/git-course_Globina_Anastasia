@@ -1,2 +1,2 @@
 alert('Hello Dit');
-consol.log('Test 2')
+consol.log('Test 2!!!!!');
